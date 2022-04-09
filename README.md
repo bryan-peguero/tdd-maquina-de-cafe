@@ -1,25 +1,25 @@
-# Maquina De Cafe 
-Implementando Test Driven Development
+# Máquina De Café 
+Implementación de Test Driven Development (TDD)
 
-## Preparacion / Uso
-Desde la terminal, dentro del directorio del proyecto:
+## Uso
+Dentro del directorio del proyecto, abrir la terminal y poner lo siguiente:
 ```bash
 $ npm install
 ```
- Ejecutar pruebas
+ Ejecutar las pruebas
  ```bash
  $ npm test
 ```
- Ejecutar aplicacion
+ Ejecutar aplicación
  ```bash
  $ npm start
 ```
-## Tecnologias
+## Tecnologías utilizadas
 - NodeJS
 - Typescrypt
 - Jest
-- inquirer
+- Inquirer
 
-## Patrones/Metodologias/Modelos
+## Modelos/Metodología
 - POO
 - TDD
